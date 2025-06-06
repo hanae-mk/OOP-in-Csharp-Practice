@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 16 Access Modifiers", "Level 16 Access Modifiers.csproj", "{D5183643-FA5A-4827-974E-FDE0BFB08BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5183643-FA5A-4827-974E-FDE0BFB08BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5183643-FA5A-4827-974E-FDE0BFB08BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5183643-FA5A-4827-974E-FDE0BFB08BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5183643-FA5A-4827-974E-FDE0BFB08BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B901DF-69A9-4FB8-A104-40DCF0B3C616}
+	EndGlobalSection
+EndGlobal
